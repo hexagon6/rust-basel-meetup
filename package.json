@@ -1,0 +1,14 @@
+{
+  "name": "rust-fullstack-workshop",
+  "version": "1.0.0",
+  "description": "rust web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "daisyui": "^4.10.2"
+  }
+}
